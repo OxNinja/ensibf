@@ -47,7 +47,8 @@
 #links
 {
     margin-top: 100px;
-    display: flex;
+	display: flex;
+	flex-wrap: wrap;
     justify-content: center;
 }
 
